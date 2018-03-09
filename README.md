@@ -1,4 +1,4 @@
-# CV-Resume-Template
+# CV/Resume Template
 This is a template for CVs and Resumes written in HTML using CSS for affects.
 Inside the source code, there is instructions on how to modify attributes to suit your needs/wants. If you have any questions or need help, do not hesistate to let me know.
 
