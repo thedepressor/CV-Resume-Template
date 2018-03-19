@@ -5,3 +5,5 @@ Inside the source code, there is instructions on how to modify attributes to sui
 I am also willing to make a whole new template for somebody if they ask, for a small fee (no more than $5 a template, depending on the complexity). 
 
 Finally, I will fill in a CV/Resume for you if you provide me with the neccessary details, again, for a small fee (no more than $15).
+
+E-mail me about anything at gregory.f.manley@gmail.com
