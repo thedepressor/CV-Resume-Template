@@ -8,7 +8,6 @@ Finally, I will fill in a CV/Resume for you if you provide me with the neccessar
 
 E-mail me about anything at gregory.f.manley@gmail.com
 
-
 # Donations and Payments
 Donations can be sent to: <br />
   BTC: 1DDNK2wmh46yXQsEYRgaEsetTyoBs62ts7 <br />
