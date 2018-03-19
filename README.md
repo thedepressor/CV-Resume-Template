@@ -10,13 +10,13 @@ E-mail me about anything at gregory.f.manley@gmail.com
 
 
 # Donations and Payments
-Donations can be sent to:<br />
-  BTC: 1DDNK2wmh46yXQsEYRgaEsetTyoBs62ts7<br />
-  ZEC: t1RMsVfNgsXB4bU4KnfQ7Bqdc4M51KGXjCZ<br />
-  BCN: 21UL8Uegu74EtKs8VNz7sUgJE6APHrRw78H9e8bMwkqhaZbJoj5F3wUdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAbbgDKw<br />
-  XMR: Adding<br />
-  DASH: XepEbsBJb7S4SSCFfUZ9iaMbkAVPjoUYkk<br />
-  AEON: Wmt5G4LaDgWVczSG5foWf772UyMah2aHRAgLsc1ZGq3UB7s7dqMkahfhFaaEttMUt9c61Em6dP1WeHkyDtyRgWf11Q6Ptvjpg<br />
-  DOGE: D8hcpmeT6jx1ZTh2v4EsqCYxst51ZeMZTo<br />
+Donations can be sent to: <br />
+  BTC: 1DDNK2wmh46yXQsEYRgaEsetTyoBs62ts7 <br />
+  ZEC: t1RMsVfNgsXB4bU4KnfQ7Bqdc4M51KGXjCZ <br />
+  BCN: 21UL8Uegu74EtKs8VNz7sUgJE6APHrRw78H9e8bMwkqhaZbJoj5F3wUdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAbbgDKw <br />
+  XMR: Adding <br />
+  DASH: XepEbsBJb7S4SSCFfUZ9iaMbkAVPjoUYkk <br />
+  AEON: Wmt5G4LaDgWVczSG5foWf772UyMah2aHRAgLsc1ZGq3UB7s7dqMkahfhFaaEttMUt9c61Em6dP1WeHkyDtyRgWf11Q6Ptvjpg <br />
+  DOGE: D8hcpmeT6jx1ZTh2v4EsqCYxst51ZeMZTo <br />
   
 Payment options include BTC, ZEC, BCN, XMR, DASH, AEON, DOGE, and PayPal. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offering, if within 15 days of original payment.
