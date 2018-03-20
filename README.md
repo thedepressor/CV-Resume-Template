@@ -18,4 +18,6 @@ Donations can be sent to: <br />
   AEON: Wmt5G4LaDgWVczSG5foWf772UyMah2aHRAgLsc1ZGq3UB7s7dqMkahfhFaaEttMUt9c61Em6dP1WeHkyDtyRgWf11Q6Ptvjpg <br />
   DOGE: D8hcpmeT6jx1ZTh2v4EsqCYxst51ZeMZTo <br />
   
+All Donations will go towards the future development of this template and other templates for people.
+  
 Payment options include BTC, ZEC, BCN, XMR, DASH, AEON, DOGE, and PayPal. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offering, if within 15 days of original payment.
