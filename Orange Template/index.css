@@ -87,6 +87,14 @@ p {
   margin: 30px auto;
 }
 
+#sign1 {
+  float: left;
+}
+
+#sign2 {
+  float: right;
+}
+
 .mainDetails {
   padding: 25px 35px;
   border-bottom: 2px solid #fba342;
@@ -113,6 +121,12 @@ p {
 
 #name {
   float: left;
+}
+
+#headshot {
+  width: 12.5%;
+  float: left;
+  margin-right: 30px;
 }
 
 #contactDetails {
