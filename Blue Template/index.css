@@ -1,7 +1,7 @@
 /*
 <!--#############################################################################-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
-<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGGGGGGGGGGGGGGGGGG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@--> 
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGGGGGGGGGGGGGGGGGG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGGGGGGGGGGGGGGGGGG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGG@@@@@@@@@@@@@@GGG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
@@ -22,7 +22,7 @@
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@MMMMMM@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
-<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@--> 
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <!--@@@@@@@@@@@@@@MM@@@MM@@AAAA@@N@@N@@L@@@@@@EEEE@@Y@@Y@@1@@22222@@@@@@@@@@@@@@@-->
@@ -170,7 +170,7 @@ section:first-child {
 
 section:last-child {
   padding 20px 0 10px;
-  
+
 }
 
 .sectionTitle {
@@ -235,7 +235,7 @@ section:last-child {
     -webkit-colum-count: 2;
     column-count: 2;
   }
-  
+
   .awards {
     .moz-column-count: 2;
     -webkit-column-count: 2;
@@ -250,29 +250,29 @@ section:last-child {
     min-widht: 280px;
     height: 90%;
   }
-  
+
   #name, #contactDetails {
     float: none;
     width: 100%;
     text-align: center;
   }
-  
+
   .sectionTitle, .sectionContent {
     float: none;
     width: 100%;
   }
-  
+
   .sectionTitle {
     margin-left: -2px;
     font-size: 1.25em;
   }
-  
+
   .keyskills {
     -moz-column-count: 2;
     -webkit-column-count: 2;
     column-count: 2;
   }
-  
+
   .awards {
     -moz-colum-count: 2;
     -webkit-column-count: 2;
@@ -284,33 +284,33 @@ section:last-child {
   .mainDetails {
     padding: 15px 15px;
   }
-  
+
   section {
     padding: 15px 0 0;
   }
-  
+
   #mainArea {
     padding: 0 25px;
   }
-  
+
   .keySkills {
     -moz-column-count: 1;
     -webkit-colum-count: 1;
     column-count: 1;
   }
-  
+
   .awards {
     -moz-column-count: 1;
     -webkit-column-count: 1;
     column-count: 1;
   }
-  
+
   #name h1 {
     line-height: .8em;
     margin-bottom: 4px;
   }
 }
-  
+
 @-webkit-keyframes reset {
   0% {
     opacity: 0;
@@ -378,11 +378,11 @@ section:last-child {
   -webkit-animation-name: reset, fade-in;
   -webkit-animation-duration: 1.5s;
   -webkit-animation-timing-function: ease-in;
- 
+
   -moz-animation-name: reset, fade-in;
   -moz-animation-duration: 1.5s;
   -moz-animation-timing-function: ease-in;
-  
+
   animation-name: reset, fade-in;
   animation-duration: 1.5s;
   animation-timing-function: ease-in;
@@ -392,11 +392,11 @@ section:last-child {
   -webkit-animation-name: reset, fade-in;
   -webkit-animation-duration: 2.5s;
   -webkit-animation-timing-function: ease-in;
-  
+
   -moz-animation-name: reset, fade-in;
   -moz-animation-duration: 2.5s;
   -moz-animation-timing-function: ease-in;
-  
+
   animation-name: reset, fade-in;
   animation-duration: 2.5s;
   animation-timing-function: ease-in;
@@ -431,13 +431,21 @@ section:last-child {
   -moz-animation-delay: 0, 2.5s;
   animation-delay: 0, 2.5s;
 }
-  
+
 @media print {
   #cv{
     width: 100%;
     height: 100%;
   }
-  
+
+  .mainDetails {
+    color: black;
+  }
+
+  .sectionTitle h1 {
+    color: black;
+  }
+
   #contactDetails {
     float: right;
   }
