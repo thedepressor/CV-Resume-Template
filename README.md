@@ -1,5 +1,6 @@
 # CV/Resume Template
-This is a template for CVs and Resumes written in HTML using CSS for affects.
+This is a template for CVs and Resumes written in HTML using CSS for affects.<br />
+There are many different colored templates. Some look beter than others and some are still a work-in progress. If you wish to print your finished product with the colored background be sure to click include background on the print options. If you choose to not have the backgroud, the template while print with just one border of that color.<br />
 Inside the source code, there is instructions on how to modify attributes to suit your needs/wants. If you have any questions or need help, do not hesistate to let me know.
 
 I am also willing to make a whole new template for somebody if they ask, for a small fee (no more than $5 a template, depending on the complexity). (Include subject: newtemp)
