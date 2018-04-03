@@ -23,4 +23,4 @@ Donations can be sent to: <br />
   
 All Donations will go towards the future development of this template and other templates for people.
   
-Payment options include BTC, ZEC, BCN, XMR, DASH, AEON, DOGE, and PayPal. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offering, if within 15 days of original payment.
+Payment options include BTC, ZEC, BCN, XMR, DASH, AEON, DOGE, and PayPal. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offered, if within 15 days of original payment.
