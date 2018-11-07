@@ -5,9 +5,9 @@ There are many different colored templates. Some look beter than others and some
 
 Inside the source code, there are instructions on how to modify attributes to suit your needs/wants. If you have any questions or need help, do not hesistate to let me know.
 
-I am also willing to make a whole new template for somebody if they ask, for a small fee (no more than $5 a template, depending on the complexity). (Include subject: newtemp)
+I am also willing to make a whole new template for somebody if they ask, for a small fee (no more than $25 a template, depending on the complexity). (Include subject: newtemp)
 
-Finally, I will fill in a CV/Resume for you if you provide me with the neccessary details, again, for a small fee (no more than $15, depending on the length of the information). (Include subject: fill)
+Finally, I will fill in a CV/Resume for you if you provide me with the neccessary details, again, for a fee (depending on the length of the information). (Include subject: fill)
 
 E-mail me about anything at gregory.f.manley@gmail.com
 
